@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00fe39be-946e-4c8c-995e-738fbd34f758" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/junit-4.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/log4j-api-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/log4j-core-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/log4j-slf4j-impl-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05CI.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/AppTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/App.java" afterPath="$PROJECT_DIR$/src/main/java/App.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -30,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -387,8 +379,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
       </list>
     </option>
   </component>
@@ -399,7 +391,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -436,6 +428,19 @@
               <item name="05CI" type="b2602c69:ProjectViewProjectNode" />
               <item name="05CI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05CI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05CI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="05CI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05CI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="05CI" type="b2602c69:ProjectViewProjectNode" />
@@ -575,15 +580,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519373751057</updated>
-      <workItem from="1519373757497" duration="750000" />
+      <workItem from="1519373757497" duration="1823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="750000" />
+    <option name="totallyTimeSpent" value="1823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -626,20 +631,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="187">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

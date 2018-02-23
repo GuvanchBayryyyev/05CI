@@ -9,6 +9,8 @@ import java.util.Map;
 public class App {
 	
 	public boolean isPrime(long number){
+
+		if (number.length==1)
 		double max = Math.sqrt(number) + 1;
 
 		if(number ==2)
